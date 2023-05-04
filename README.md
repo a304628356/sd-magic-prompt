@@ -3,31 +3,21 @@
 Features
 在X/Y/Z Plot脚本的提示词查找替换功能中，addone 功能。 Added range support for Prompt S/R in X/Y/Z plot script when applying against integer and float numbers.
 
+
+
 该功能允许在提示词末尾不断添加新的提示词。The following range syntax are supported.
 
+![image](https://github.com/a304628356/sd-magic-prompt/blob/main/xyz_grid-0002-1248642573.png)
+
 使用magic prompt，输入原有语句，直接生成新的句子
+
+![image](https://github.com/a304628356/sd-magic-prompt/blob/main/test.png)
 
 
 
 在sd-webui-magic-prompt/scripts/magic_prompt 下创建model目录，目录结构如下
 
 模型去 https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion/tree/main 下载最后的模型路径如下
-
---model
-
-    |--config.json
-
-    |--merges.txt
-
-    |--model.safetensors
-
-    |--special_tokens_map.json
-
-    |--tokenizer_config.json
-
-    |--training_args.bin
-
-    |--vocab.json
 
 
 安装方法 | Installation
