@@ -13,11 +13,11 @@ Features
 
 ![image](https://github.com/a304628356/sd-magic-prompt/blob/main/test.png)
 
-
-
 在sd-webui-magic-prompt/scripts/magic_prompt 下创建model目录，目录结构如下
 
-模型去 https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion/tree/main 下载最后的模型路径如下
+然后去 https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion/tree/main 下载对应的文件如下
+
+![image](https://github.com/a304628356/sd-magic-prompt/blob/main/dir_model.png)
 
 
 安装方法 | Installation
