@@ -14,12 +14,19 @@ Features
 模型去 https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion/tree/main 下载最后的模型路径如下
 
 --model
+
     |--config.json
+
     |--merges.txt
+
     |--model.safetensors
+
     |--special_tokens_map.json
+
     |--tokenizer_config.json
+
     |--training_args.bin
+
     |--vocab.json
 
 
